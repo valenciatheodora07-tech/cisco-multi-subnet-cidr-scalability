@@ -55,7 +55,8 @@ During network expansion, **3 additional workstations (`PC3`, `PC4`, and `PC5`)*
 * **Cross-Subnet ICMP Ping Tests:** Verified bidirectional reachability between **SubNet A** (`PC0` - `192.168.8.3`) and newly added hosts in **SubNet D** (`PC3` - `192.168.1.4` and `PC5` - `192.168.1.7`), achieving **100% delivery (`Sent = 4, Received = 4, 0% packet loss`)**.
 * **Application Layer (HTTP) Access:** Confirmed end-to-end web service accessibility from client browsers in SubNet A to the HTTP Web Server hosted in **SubNet B** (`http://192.168.11.3`).
 
-![Connectivity Verification](images/connectivity-ping-http-test.png)
+![Ping Connectivity Verification](images/connectivity-ping-test-subnet-a-to-subnet-d.png)
+![HTTP Connectivity Verification](images/connectivity-http-test-subnet-a-to-subnet-b.png)
 
 ---
 

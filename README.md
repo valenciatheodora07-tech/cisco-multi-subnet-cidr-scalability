@@ -60,17 +60,7 @@ During network expansion, **3 additional workstations (`PC3`, `PC4`, and `PC5`)*
 
 ---
 
-## Repository Structure
-
-```text
-├── README.md                                                  # Project documentation and network design
-├── simulation/
-│   └── multi-subnet-cidr-scalability.pkt                      # Cisco Packet Tracer simulation file
-└── images/
-    ├── topology-overview.png                                  # Full logical network topology
-    ├── subnet-d-dhcp-config.png                               # SubNet D /28 DHCP server configuration
-    ├── connectivity-ping-test-subnet-a-to-subnet-d.png        # Cross-subnet ICMP ping results
-    └── connectivity-http-test-subnet-a-to-subnet-b.png        # Cross-subnet HTTP test results
+📂 **Cisco Packet Tracer File:** [Download Simulation (.pkt)](simulation/multi-subnet-cidr-scalability.pkt)
 ```
 
 ---

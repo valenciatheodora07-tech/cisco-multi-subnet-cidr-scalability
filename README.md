@@ -59,12 +59,8 @@ During network expansion, **3 additional workstations (`PC3`, `PC4`, and `PC5`)*
 ![HTTP Connectivity Verification](images/connectivity-http-test-subnet-a-to-subnet-b.png)
 
 ---
-
 📂 **Cisco Packet Tracer File:** [Download Simulation (.pkt)](simulation/multi-subnet-cidr-scalability.pkt)
 ```
-
----
-
 ## Author
 **Valencia Theodora**  
 B.Sc. in Informatics Engineering (Network & Cyber Security Specialization) — University of Surabaya  

@@ -61,8 +61,3 @@ During network expansion, **3 additional workstations (`PC3`, `PC4`, and `PC5`)*
 ---
 📂 **Cisco Packet Tracer File:** [Download Simulation (.pkt)](simulation/multi-subnet-cidr-scalability.pkt)
 
-```
-## Author
-**Valencia Theodora**  
-B.Sc. in Informatics Engineering (Network & Cyber Security Specialization) — University of Surabaya  
-[LinkedIn](https://www.linkedin.com/in/valencia-theodora) | [GitHub](https://github.com/valenciatheodora07-tech)
